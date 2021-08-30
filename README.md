@@ -3,4 +3,5 @@ En este documento iremos publicando la lista de problemas realizada y las dudas 
 ## Problemas
 1. El primero
 2. El segundo
+3. El tercer
 ## Las dudas
