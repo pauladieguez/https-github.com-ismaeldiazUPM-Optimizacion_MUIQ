@@ -1,5 +1,5 @@
 # Optimizacion_MUIQ
-En este documento iremos publicando la lista de problemas realizada y las dudas que vayan apareciendo
+En este documento iremos resumiendo el contenido de las sesiones y de los problemas y dudas que vayan surgiendo
 
 ## Timeline
 1. [Clase 07/09] Introducción a la asignatura y preparación del software
