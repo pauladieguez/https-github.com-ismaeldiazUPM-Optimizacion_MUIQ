@@ -3,7 +3,9 @@ En este documento iremos resumiendo el contenido de las sesiones y de los proble
 
 ## Timeline
 1. [Clase 07/09] Introducción a la asignatura y preparación del software
-2. ~~[Clase 14/09] Introducción a Python y Pyomo. Ejercicio 3~~
+2. [Clase 14/09] Introducción a Python
+3. ~~[Clase 21/09] Introducción Pyomo. Ejercicio 3. Formulación del modelo~~
+4. ~~[Clase 28/09] Programación lineal. Tarea 1.~~
 
 ## Problemas
 1. ~~**01_Introduccion** para ver el funcionamiento básico de pyomo~~
